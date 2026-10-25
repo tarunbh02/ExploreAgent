@@ -1,8 +1,4 @@
-ExploreAgent
-
- LLM-Powered Autonomous Exploratory Testing Agent
-
-I'm building ExploreAgent as a personal project to explore how LLMs can be used in software testing beyond traditional automation.
+ExploreAgent. -  LLM-Powered Autonomous Exploratory Testing Agent
 
  Why I'm Building ExploreAgent
 
